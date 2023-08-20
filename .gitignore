@@ -1,0 +1,7 @@
+# generally
+image/
+*.png
+*.jpg
+*.pdf
+
+# others
